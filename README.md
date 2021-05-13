@@ -41,10 +41,6 @@ Password: admin
 :------------------------:
 ![Main page1](gif/1_Home.gif)
 
-**Registration and authorization**
-:------------------------:
-![R&A](gif/2_Reg.gif)
-
 **Shopping**
 :------------------------:
 ![Shopping](gif/3_Shopping.gif)
